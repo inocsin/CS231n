@@ -1,0 +1,5 @@
+*
+!get_coco_captioning.sh
+!get_pretrained_model.sh
+!get_tiny_imagenet_a.sh
+!.gitignore
